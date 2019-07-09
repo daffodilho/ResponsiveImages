@@ -1,3 +1,3 @@
-# Responsive Images
+# Using the Picture Tag with Srcset for Responsive Images
 
-Using picture tag to put images in website
+Designing and direction a web app with images that load based on media queries. To save your user's data and avoid angry emails or downvotes.
